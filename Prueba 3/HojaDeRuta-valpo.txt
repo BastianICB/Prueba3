@@ -1,0 +1,3 @@
+Lista de pedidos
+{'Cliente': 'bb', 'Direccion': 'bb', 'Comuna': 'valpo', 'Cil. 5kg': 5, 'Cil. 15kg': 0, 'Cil. 45kg': 0}
+{'Cliente': 'cc', 'Direccion': 'cc', 'Comuna': 'valpo', 'Cil. 5kg': 5, 'Cil. 15kg': 0, 'Cil. 45kg': 0}
